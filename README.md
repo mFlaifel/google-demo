@@ -1,2 +1,2 @@
 # google-demo
-this page is created for learn purposes by using html/css 
+this page is created for learning purposes by using html/css only.
